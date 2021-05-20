@@ -98,7 +98,10 @@ function pushItemAway(fixedItem, movingItem, distance) {
 
     var by = distanceVector.multiplyScalar(-distance);
 
-    alert("pushItemAway: " + movingItem);
+    alert("pushItemAway.movingItem: " + movingItem);
+    alert("pushItemAway.distance: " + distance);
+    alert("pushItemAway.by.x: " + by.x);
+    alert("pushItemAway.by.y: " + by.y);
     movingItem.translate(by.x, by.y, true, true, true, true);
 }
 

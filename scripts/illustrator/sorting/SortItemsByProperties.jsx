@@ -1,25 +1,6 @@
-﻿var docRef = app.activeDocument;
-var selection = docRef.selection;
-var length = docRef.selection.length;
+﻿//@include "../lib/selection.jsx";
 
-var values = [];
-
-var parentObject;
-
-if (length === 1) {
-  parentObject = selection[0];
-  length = selection[0].pageItems.length;
-  for (i = 0; i < length; i++) {
-    var item = selection[0].pageItems[i];
-    values.push(item);
-  }
-} else {
-  parentObject = selction[0].parent;
-  for (i = 0; i < length; i++) {
-    var item = selection[i];
-    values.push(item);
-  }
-}
+alert("Starting to sort!");
 
 sortVertically=true;
 sortAscending=true;
@@ -44,8 +25,6 @@ if (!sortByFirstEdge) {
   sortMode += 10;
 }
 
-  
-alert(sortMode);
 function get_sort_key(a, b, sortMode) {
   switch (sortMode) {
     case 0:
@@ -60,15 +39,21 @@ function get_sort_key(a, b, sortMode) {
   return 0;
 }
 
-values.sort(function (a, b) {
+var docRef = app.activeDocument;
+var pageItems = getSelectedPageItems(docRef);
+var length = pageItems.length;
+
+pageItems.sort(function (a, b) {
   return get_sort_key(a, b, sortMode);
 });
 
 if(!sortAscending){
-  values.reverse();
+  pageItems.reverse();
 }
 
 for (i = 0; i < length; i++) {
-  var sortedItem = values[i];
+  var sortedItem = pageItems[i];
   sortedItem.zOrder(ZOrderMethod.SENDTOBACK);
 }
+
+alert("Sorted " + length + " items!");
