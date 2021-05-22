@@ -1,21 +1,28 @@
 module.exports = {
+    multipass: false, // boolean. false by default
+    datauri: 'base64', // 'base64', 'enc' or 'unenc'. 'base64' by default
+    floatPrecision: 2,
+    js2svg: {
+      indent: 2, // string with spaces or number of spaces. 4 by default
+      pretty: true
+    },
     plugins: [
       // enable a built-in plugin by name      
         "removeDoctype",
         "removeXMLProcInst",
         "removeComments",
         "removeMetadata",
-        "removeXMLNS",
+        //"removeXMLNS",
         "removeEditorsNSData",
         "cleanupAttrs",
         "inlineStyles",
         "minifyStyles",
         "convertStyleToAttrs",
         "cleanupIDs",
-        "removeRasterImages",
+        //"removeRasterImages",
         "removeUselessDefs",
         "cleanupNumericValues",
-        "cleanupListOfValues",
+        //"cleanupListOfValues",
         "convertColors",
         "removeUnknownsAndDefaults",
         "removeNonInheritableGroupAttrs",
@@ -35,14 +42,14 @@ module.exports = {
         "removeEmptyContainers",
         "mergePaths",
         "removeUnusedNS",
-        "reusePaths",
-        "sortAttrs",
+        //"reusePaths",
+        //"sortAttrs",
         "sortDefsChildren",
         "removeTitle",
         "removeDesc",
-        "removeDimensions",
-        "removeStyleElement",
-        "removeScriptElement"
+        //"removeDimensions",
+        //"removeStyleElement",
+        //"removeScriptElement"
     ]
   }
   
