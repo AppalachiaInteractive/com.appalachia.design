@@ -1,0 +1,570 @@
+Components: 
+AutoCAD 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+ACE 2020/11/19-11:34:27 79.625377 79.625377
+Autodesk, Inc. ObjectDBX 23.1.47.0.0 Q.47.0.0
+Autodesk, Inc. ObjectDBX 23.1.47.0.0 Q.47.0.0
+AcGradient DLL 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+Unknown Name 23.1.47.0.0
+AutoCAD 23.1.47.0.0
+Adobe Linguisitc Library developer.633ca06620e3b28a3ccee5d61e3e97bd84fe66b3
+Adobe Owl 5.2.11
+PDFL 2020/11/20-03:50:06 79.408461 79.408461
+Adobe PDFSettings 1.07
+Adobe Product Improvement Program 8.2.0.14
+Adobe Illustrator 1.0
+AdobeSVGAGM 79.625377 79.625377
+Adobe XMP Core 2020/11/18-15:51:46 79.164570 79.164570
+Adobe XMP Files 2020/11/18-15:51:46 79.164570 79.164570
+Adobe XMP Script 2020/11/18-15:51:46 79.164570 79.164570
+Adobe CAPS 10,0,0,6
+Autodesk ADP Toolkit 2018.11.1.0
+Autodesk Spatial Reference 14.06.0.9
+ AFL 3.5
+AGM 2020/11/19-11:34:27 79.625377 79.625377
+ AdobeHelp Dynamic Link Library 4.3.0.0
+AID DLL 5.1.0.121
+AIDE 2020/11/20-03:50:06 79.625451 79.625451
+AIFM 1.0 23.68434
+Adobe Illustrator 2021 25.2.3
+AIPort 1.0 23.68434
+AIPOSTMAN 1.0 23.68434
+AIPreviewHandler 1.0 23.68434
+AIPSL 1.0 23.68434
+AITEXTVIEWMODEL 1.0 23.68434
+ARE 2020/11/19-11:34:27 79.625377 79.625377
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk ShapeManager 225A
+Autodesk, Inc. ObjectDBX 23.1.47.0.0
+AXE8SharedExpat 2020/11/10-01:10:57 79.625173 79.625173
+AXEDOMCore 2020/11/10-01:10:57 79.625173 79.625173
+AXSLE 2020/11/10-01:10:57 79.625173 79.625173
+BIB 2020/11/19-11:34:27 79.625377 79.625377
+BIBUtils 2020/11/19-11:34:27 79.625377 79.625377
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+CoolType 2020/11/19-11:34:27 79.625377 79.625377
+Adobe Crash Reporter Client DLL 4.6.0.0
+2D DCM 67.7.0.0
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Adobe Illustrator 25.2.3
+Unified Extensibility Platform uxp-4.3.4.62
+Adobe Illustrator 25.2.3
+ExtendScript 2014/12/03-09:00:00 80.1 80.1
+FilterPort 1.1 79.625377
+International Components for Unicode  Build dev.1a8973dfe99250a665e321702b3d76963c65bdfe
+International Components for Unicode  Build dev.1a8973dfe99250a665e321702b3d76963c65bdfe
+International Components for Unicode  Build dev.1a8973dfe99250a665e321702b3d76963c65bdfe
+International Components for Unicode  Build dev.1a8973dfe99250a665e321702b3d76963c65bdfe
+JP2KLib 2007/11/13-12:29:15 1.89421 1.89421
+Intel(r) C Compiler, Intel(r) C++ Compiler, Intel(r) Fortran Compiler 10.1
+Adobe Illustrator 25.2.3
+LogSession 8.2.0.14
+AutoCAD 23.1.47.0.0
+MPS 2021/04/08-10:21:34 119.629380 119.629380
+OpenCV library 3.4.1
+OpenCV library 3.4.1
+PDFPort 2020/11/19-11:34:27 79.625377 79.625377
+Adobe Photoshop 2021 22.2
+Adobe(R) CEP PlugPlugExternalObject Standard Dll (64 bit) 10.2.0
+Adobe(R) CSXS PlugPlugOwl Standard Dll (64 bit) 10.2.0.27
+Adobe India Sangam Core Code 2021/03/19-17:35:16 79.946c237 79.946c237
+Adobe India SangamML Import from Sangam 2021/03/19-17:35:16 79.946c237 79.946c237
+ScCore 2014/12/03-09:00:00 80.1 80.1
+Adobe Illustrator 25.2.3
+SVGExport 6, 0, 0, 0 79.583414
+SVGRE 6, 0, 0, 0 79.583414
+Intel(R) C/C++/Fortran Compiler Mainline
+Intel(R) Threading Building Blocks for Windows 2019, 0, 2018, 0718
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0 
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+Teigha® for .dwg files 3.05.1.0
+T-Splines 7.0.0.0
+UXTECH 1.0 23.68434
+Vulcan Application Control Library 6.6.0.24
+Vulcan Message Library 6.7.0.47
+WRServices  Build 16.0.0.4539038 16.0.0.4539038
+ATE 
+NGL 1.20.0.6
+
+OS: Windows
+Version: 10.0
+System Architecture: x64
+Built-In Memory: 32726 MB
+
+User Name: Chris Schubert
+Serial Number: 91630952799751493514
+
+Application Folder: 
+C:\Program Files\Adobe\Adobe Illustrator 2021\Support Files\
+Primary Scratch Folder: 
+C:\AITEMP\AI_25_2\
+Secondary Scratch Folder: 
+
+
+Plug-ins: 
+Live Menu Item
+Adobe AI Application Plugin
+BranchDeepLink
+Adobe Repeat Model Plugin
+Adobe Font Session
+Adobe Cloud AI
+Adobe Symbol Model Plugin
+Hello Experience Plugin
+Document Window Plugin
+Color Conversion
+New Cache Plugin
+AdobeLicenseManager
+ZStringTable
+Main Filters
+Main File Formats
+Adobe PGF File Format
+AI File Format
+Mesh Object
+Control Groups
+Composite Fonts
+Place Gun Tool
+AppAnnotators
+Window Menu
+Not Genuine Manager
+Adobe Charts Plugin
+Cloud link Plugin
+AI Incremental Save File Format
+File Format Place EPS
+Debug Menu
+SLO Text Tool
+AI Tool Plugin
+Pen Tool Plugin
+Sweet Pea 2 Adapter Plugin
+FrameworkS
+Adobe Illustrator User Interface
+AdobeActionManager
+Mojikumi UI
+Photoshop Plugin Adapter Unsharp Mask...
+Photoshop Plugin Adapter Color Halftone...
+Photoshop Plugin Adapter OpenEXR
+Photoshop Plugin Adapter Paths to Illustrator...
+Photoshop Plugin Adapter HSB/HSL
+Photoshop Plugin Adapter IFF Format
+Photoshop Plugin Adapter Targa
+Photoshop Plugin Adapter BMP
+Photoshop Plugin Adapter Tiles...
+Photoshop Plugin Adapter Displace...
+Photoshop Plugin Adapter De-Interlace...
+Photoshop Plugin Adapter Crop and Straighten Photos Filter
+Photoshop Plugin Adapter Wave...
+Photoshop Plugin Adapter Radial Blur...
+Photoshop Plugin Adapter Mezzotint...
+Photoshop Plugin Adapter ZigZag...
+Photoshop Plugin Adapter Wind...
+Photoshop Plugin Adapter Spherize...
+Photoshop Plugin Adapter Smart Blur...
+Photoshop Plugin Adapter Polar Coordinates...
+Photoshop Plugin Adapter Twirl...
+Photoshop Plugin Adapter Shear...
+Photoshop Plugin Adapter Ripple...
+Photoshop Plugin Adapter Lens Flare...
+Photoshop Plugin Adapter Fibers...
+Photoshop Plugin Adapter Extrude...
+Photoshop Plugin Adapter Pinch...
+Photoshop Plugin Adapter Pointillize...
+Photoshop Plugin Adapter Crystallize...
+Photoshop Plugin Adapter PNG
+Photoshop Plugin Adapter CompuServe GIF
+Photoshop Plugin Adapter Pixar
+Photoshop Plugin Adapter PCX
+Photoshop Plugin Adapter NTSC Colors
+Photoshop Plugin Adapter Legacy Gaussian Blur...
+Photoshop Plugin Adapter Texturizer...
+Photoshop Plugin Adapter Stained Glass...
+Photoshop Plugin Adapter Patchwork...
+Photoshop Plugin Adapter Mosaic Tiles...
+Photoshop Plugin Adapter Grain...
+Photoshop Plugin Adapter Craquelure...
+Photoshop Plugin Adapter Glowing Edges...
+Photoshop Plugin Adapter Water Paper...
+Photoshop Plugin Adapter Torn Edges...
+Photoshop Plugin Adapter Stamp...
+Photoshop Plugin Adapter Reticulation...
+Photoshop Plugin Adapter Plaster...
+Photoshop Plugin Adapter Photocopy...
+Photoshop Plugin Adapter Note Paper...
+Photoshop Plugin Adapter Halftone Pattern...
+Photoshop Plugin Adapter Graphic Pen...
+Photoshop Plugin Adapter Cont^e Crayon...
+Photoshop Plugin Adapter Chrome...
+Photoshop Plugin Adapter Charcoal...
+Photoshop Plugin Adapter Chalk && Charcoal...
+Photoshop Plugin Adapter Bas Relief...
+Photoshop Plugin Adapter Ocean Ripple...
+Photoshop Plugin Adapter Glass...
+Photoshop Plugin Adapter Diffuse Glow...
+Photoshop Plugin Adapter Sumi-e...
+Photoshop Plugin Adapter Sprayed Strokes...
+Photoshop Plugin Adapter Spatter...
+Photoshop Plugin Adapter Ink Outlines...
+Photoshop Plugin Adapter Dark Strokes...
+Photoshop Plugin Adapter Crosshatch...
+Photoshop Plugin Adapter Angled Strokes...
+Photoshop Plugin Adapter Accented Edges...
+Photoshop Plugin Adapter Watercolor...
+Photoshop Plugin Adapter Underpainting...
+Photoshop Plugin Adapter Sponge...
+Photoshop Plugin Adapter Smudge Stick...
+Photoshop Plugin Adapter Rough Pastels...
+Photoshop Plugin Adapter Poster Edges...
+Photoshop Plugin Adapter Plastic Wrap...
+Photoshop Plugin Adapter Palette Knife...
+Photoshop Plugin Adapter Paint Daubs...
+Photoshop Plugin Adapter Neon Glow...
+Photoshop Plugin Adapter Fresco...
+Photoshop Plugin Adapter Film Grain...
+Photoshop Plugin Adapter Dry Brush...
+Photoshop Plugin Adapter Cutout...
+Photoshop Plugin Adapter Colored Pencil...
+Photoshop Plugin Adapter Filter Gallery...
+Adobe Vector Sculpting UI
+Twirl v2
+SketchingTools
+Simplify
+Segment Tools
+ShapeTool
+ShaperUI
+Advanced Select
+Adobe Scatter Brush Tool
+Adobe Symbolism
+Magic Wand
+Liquify
+Lasso
+Knife Tool
+Reshape Tool
+Adobe Flare Plugin
+AdobeTextDropper
+Adobe Eraser Tool
+Adobe dBrush Brush Tool
+Adobe Curvature Tool
+Adobe Crop Tool
+Adobe Calligraphic Brush Tool
+BoundingBox
+AdobeArtBrushTool
+TypeCase
+Smart Punctuation
+TxtColumns
+TextModel
+TextFindFont
+Spell Check Dictionary
+Adobe PSD File Import
+Adobe PSD File Export
+PSLFilterAdapter
+PhotoshopAdapter
+ZigZagUI
+VectorizeUI
+VariablesPaletteUI
+TwirlToolUI
+TransformUI
+Touch Status Bar UI
+TIFF File Format UI
+TextExportUI
+SvgFileFormatUI
+Spell Check UI
+SmartExportUI
+Adobe Smart Edit UI
+AdobeSlicingUI
+ShapeEffectUI
+Shape Core UI
+ScribbleUI
+ScribbleFillUI
+ScatterBrushToolUI
+SangamFormatsUI
+RoundUI
+RoughenUI
+RasterizeUI
+PuckerAndBloatUI
+PSLFilterAdapterUI
+Adobe PSD File Import UI
+Adobe PSD File Export UI
+AIPreferenceUI
+PlanetXUI
+PerspectiveUI
+PDF File Format UI
+PathfinderUI
+ParticleSystemUI
+OnBoarding
+OffsetPath UI Plugin
+ObjectMosaicUI
+MenuConfigurator
+Adobe Live Shapes UI
+LiveBlendsUI
+LiquifyToolUI
+JPEGFormatUI
+IllustratorUI
+GlobAdjToolUI
+FuzzyEffectUI
+FlattenTransparencyUI
+SWFExport UI
+FlareUI
+Find Replace UI
+ExpandUI
+DxfDwgUI
+DropShadowUI
+DistortUI
+Design Library
+DeformUI
+Adobe dBrush Brush Tool UI
+Adobe Curvature ToolUI
+CSSExtractUI
+Adobe Crop UI
+Adobe Calligraphic Brush Tool UI
+AdobeBrushMgrUI
+Asset ManagementUI
+ArtOnPathBrushToolUI
+AI Toolbox UI Plugin
+AddArrowUI
+TIFF File Format
+TextExport
+SvgFileFormat
+Save4Web
+AISangamMapper
+PNG File Format
+PNGExport
+MPSParser
+MPSExport
+MPSCommon
+JSONFormat
+JPEG Plugin
+JPEG2K Plugin
+Adobe Image Decoder Encoder
+GIF89a Plugin
+SWFExport
+Adobe DxfDwg File Format
+Adobe DXFDWG Format
+ZigZag v2
+TrimMark v2
+TextWrap Dlg
+ShapeEffects v2
+Adobe Scribble Fill
+Scribble v2
+Saturate
+Round v2
+Roughen v2
+Punk v2
+AdobePathfinderPalette
+Overprint
+OffsetPath v2
+AI Object Mosaic Plug-in
+MaskHelper v2
+Inverse
+FuzzyEffect v2
+Find
+Expand
+DropShadow
+Distort v2
+AdobeDiffusionRaster
+Colors
+Cleanup
+Adjust
+AddArrowHeads v3
+Add Anchor Points
+Adobe Custom Workspace
+Vulcan Service
+Vector Sculpting
+Vectorize
+Adobe Variables Palette
+Adobe Uxp Extension
+AdobeTransparencyEditor
+AdobeTransformObjects
+Transform v2
+AdobeToolSelector
+Adobe Task Manager UI
+Adobe Symbol Palette Plugin
+Adobe Swatch Libs Core
+AdobeSwatch_
+SVG Filter Effect v2
+Stroke Offset v2
+Snapomatic
+GradientMeshPlugin
+SmartExport
+Adobe Smart Edit
+Shaper
+Shape Core
+Services
+SeparationPreviewPlugin
+Adobe Sensei Agents Plugin
+Adobe Selective Unlock Plugin
+Scripts Menu
+ScriptingSupport
+Adobe Repeat Arts UI
+Adobe Recolor Core
+Adobe Radial Device
+Properties Panel
+Print Plugin
+Adobe Planar Edit Plugin
+Adobe Perspective Guides
+AdobePaintStyle
+Package
+Adobe Nudge
+AdobeNavigator
+Adobe Multi Threaded Rasterization
+Adobe Live Shapes
+Adobe Path Blends
+AdobeLinkPalette
+AdobeLayerPalette
+Kinsoku Dlg
+KBSC Plugin
+Adobe Geometry Suite
+AdobeAlignObjects
+Flattening Preview
+FileClipboardPreference
+Experimentation Plugin
+DynamicCorners
+DocInfo
+Adobe Diffusion Coloring
+Adobe Deform Plugin
+Adobe Deep Learning
+CSSExtract
+Control Panel Plugin
+ContextMenuTouch
+Adobe Color Harmony Plugin
+Character and Paragraph Styles
+AI CCLibAccessor Plugin
+AdobeBrushMgr
+AI Bottlenecks Plugin
+BeautifulStrokes Suite
+Asset Management
+Adobe Art Style Plugin
+AdobeArtboardPanel
+Adobe App Bar Controls Host
+Alternate Glyph Palette
+AI Robin Client
+AdobeActionPalette
+3D v2
+DebugPanelPluginName
+AdobeSlicingPlugin
+Shape Suite
+Rasterize 8
+PDF Suite
+PDF File Format
+Path Suite
+Pathfinder Suite
+FO Conversion Suite
+FlattenTransparency
+ExpandS
+CurveFittingSuite
+Art Converters v2
+
+GPU Info: 
+Illustrator Version: 25.2.3
+OpenGL Version: 4.6.0 NVIDIA 460.89
+Extensions: GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+Number of Displays: 2
+Number of Drivers: 1
+Vendor: NVIDIA Corporation
+Renderer: GeForce RTX 2080/PCIe/SSE2
+Active Display Name: \\.\DISPLAY2
+PrimaryDisplayAdapterIndex: 0
+Display Adapter[0]  VendorID: 10de
+Display Adapter[0]  DeviceID: 1e87
+Display Adapter[0]  SubSysId: 21833842
+Display Adapter[0]  Revision: 161
+Display Adapter[0]  DedicatedVideoMemory: 8010
+Display Adapter[0]  DedicatedSystemMemory: 0
+Display Adapter[0]  SharedSystemMemory: 16363
+Display Adapter[0]  Attached Monitors: \\.\DISPLAY1,\\.\DISPLAY2
+Display Adapter[0]  PrimaryMonitor: 1
+Display Adapter[1]  VendorID: 1414
+Display Adapter[1]  DeviceID: 8c
+Display Adapter[1]  SubSysId: 0
+Display Adapter[1]  Revision: 0
+Display Adapter[1]  DedicatedVideoMemory: 0
+Display Adapter[1]  DedicatedSystemMemory: 0
+Display Adapter[1]  SharedSystemMemory: 16363
+Display Adapter[1]  Attached Monitors: None
+Display Adapter[1]  PrimaryMonitor: 0
+ActiveDriverIndex: 0
+Driver[0] Name: NVIDIA GeForce RTX 2080
+Driver[0] Driver Version: 27.21.14.6089
+Driver[0] Driver Date: 20201211000000.000000-000
+Driver[0] Adapter RAM: 4095
+Driver[0] PNP DeviceID: PCI\VEN_10DE&DEV_1E87&SUBSYS_21833842&REV_A1\4&F1D09F1&0&0010
+Driver[0] Installed Display Drivers: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2635d5c616c804dc\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2635d5c616c804dc\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2635d5c616c804dc\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2635d5c616c804dc\nvldumdx.dll
+DefaultEnableGPU: 1
+
+UXP Version: uxp-4.3.4.62
+ACPL Info: "CoreSyncServiceStatus":"CORESYNC_REACHABLE_AND_COMPATIBLE"
+"AvailableCoreSyncVersion":"4.11.0.12"
+"AvailableACPLSDKVersion":"1.42.1"
+"MinimumSupportedCoreSyncVersion":"4.3.28.24"
+SharedAssetModelVersion: 2.0.0-main.363.2
+LiveEditSDKVersion: 3.79.11
+CMDN Version: 1.7.6
+CDO Version: 1.87.0
+CDP Version: 1.110.0
+UXP Extensions Info- 
+com.adobe.ccx.start: 4.2.0.21
+com.adobe.illustrator.propertiespanel: 0.0.2
+com.adobe.ccx.timeline: 2.6.37
+com.adobe.ccx.sharesheet: 16.17.2
+
