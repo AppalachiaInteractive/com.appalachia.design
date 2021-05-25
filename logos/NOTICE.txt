@@ -1,0 +1,1 @@
+"Appalachia", Appalachia Interactive logos, and other Appalachia Interactive trademarks are trademarks or registered trademarks of Appalachia Interactive in the U.S. and elsewhere. Other names or brands are trademarks of their respective owners.
