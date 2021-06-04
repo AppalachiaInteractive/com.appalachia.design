@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="0px" height="0px" viewBox="0 0 0 0" style="overflow:visible;" xml:space="preserve">
+<variableSets  xmlns="&ns_vars;">
+	<variableSet  locked="none" varSetName="binding1">
+		<variables>
+			<variable  category="&ns_flows;" trait="textcontent" varName="PostTitle"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style1"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style2"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style3"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style4"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style5"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style6"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style7"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style8"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style9"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style10"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style11"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style12"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style13"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style14"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style15"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style16"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style17"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style18"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style19"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style20"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style21"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style22"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style23"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Style24"></variable>
+		</variables>
+		<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;">
+			<v:sampleDataSet  dataSetName="and-were-live">
+				<PostTitle>And We’re Live!</PostTitle>
+				<Style1>true</Style1>
+				<Style2>false</Style2>
+				<Style3>false</Style3>
+				<Style4>false</Style4>
+				<Style5>false</Style5>
+				<Style6>false</Style6>
+				<Style7>false</Style7>
+				<Style8>false</Style8>
+				<Style9>false</Style9>
+				<Style10>false</Style10>
+				<Style11>false</Style11>
+				<Style12>false</Style12>
+				<Style13>false</Style13>
+				<Style14>false</Style14>
+				<Style15>false</Style15>
+				<Style16>false</Style16>
+				<Style17>false</Style17>
+				<Style18>false</Style18>
+				<Style19>false</Style19>
+				<Style20>false</Style20>
+				<Style21>false</Style21>
+				<Style22>false</Style22>
+				<Style23>false</Style23>
+				<Style24>false</Style24>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="website-buildout-retrospective">
+				<PostTitle>Website Buildout Retrospective</PostTitle>
+				<Style1>false</Style1>
+				<Style2>true</Style2>
+				<Style3>false</Style3>
+				<Style4>false</Style4>
+				<Style5>false</Style5>
+				<Style6>false</Style6>
+				<Style7>false</Style7>
+				<Style8>false</Style8>
+				<Style9>false</Style9>
+				<Style10>false</Style10>
+				<Style11>false</Style11>
+				<Style12>false</Style12>
+				<Style13>false</Style13>
+				<Style14>false</Style14>
+				<Style15>false</Style15>
+				<Style16>false</Style16>
+				<Style17>false</Style17>
+				<Style18>false</Style18>
+				<Style19>false</Style19>
+				<Style20>false</Style20>
+				<Style21>false</Style21>
+				<Style22>false</Style22>
+				<Style23>false</Style23>
+				<Style24>false</Style24>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="our-plans-for-open-source-development">
+				<PostTitle>Our Plans for Open Source Development</PostTitle>
+				<Style1>false</Style1>
+				<Style2>false</Style2>
+				<Style3>true</Style3>
+				<Style4>false</Style4>
+				<Style5>false</Style5>
+				<Style6>false</Style6>
+				<Style7>false</Style7>
+				<Style8>false</Style8>
+				<Style9>false</Style9>
+				<Style10>false</Style10>
+				<Style11>false</Style11>
+				<Style12>false</Style12>
+				<Style13>false</Style13>
+				<Style14>false</Style14>
+				<Style15>false</Style15>
+				<Style16>false</Style16>
+				<Style17>false</Style17>
+				<Style18>false</Style18>
+				<Style19>false</Style19>
+				<Style20>false</Style20>
+				<Style21>false</Style21>
+				<Style22>false</Style22>
+				<Style23>false</Style23>
+				<Style24>false</Style24>
+			</v:sampleDataSet>			
+		</v:sampleDataSets>
+	</variableSet>
+</variableSets>
+</svg>
